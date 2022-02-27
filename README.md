@@ -14,7 +14,7 @@ regular taggerscripts, for changing tags and whatnot. I don't have any at the mo
 naming patterns for filesystems based on the tags in your music files
 
 ### Basic Alpha Folders Script
-(download) not working atm, as I figure out GitHub :)
+[download](Basic Alpha Folders Script v0.2.ptsp)
 
 note, for non-album tracks to be sorted properly, you need to use the default name of “[non-album tracks]”. actual examples from my library:
 * [Various Artists]
