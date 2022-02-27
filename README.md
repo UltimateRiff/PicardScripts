@@ -1,12 +1,22 @@
 # PicardScripts
-Userscripts for MusicBrainz Picard
+scripts for MusicBrainz Picard
+to install:
+
+### Picard 2.7 and later
+for taggerscripts, go to Options > Options... > Scripting > Import
+
+for file naming scripts, go to Options > Options... > File Naming > Edit script... > File > Import a script file
+
 ## Scripts
-regular taggerscripts, for changing tags and whatnot
+regular taggerscripts, for changing tags and whatnot. I don't have any at the moment tho...
+
 ## Filenaming Scripts
 naming patterns for filesystems based on the tags in your music files
+
 ### Basic Alpha Folders Script
 (download) not working atm, as I figure out GitHub :)
-will give you a file system like:
+
+note, for non-album tracks to be sorted properly, you need to use the default name of “[non-album tracks]”. actual examples from my library:
 * [Various Artists]
   * (1986) Top Gun_ Original Motion Picture Soundtrack [mp3]
     * 01 Danger Zone - Kenny Loggins.mp3
